@@ -119,7 +119,7 @@ export function Main() {
         </Typography>
 
         <Typography variant="body1" style={{fontSize: configs.textSizeSmall, marginBottom: "30px"}} >
-          Have any questions? Feel free to reach out to us at: <b>mohitsaini1196@gmail.com</b>
+          Have any questions? Feel free to reach out to us at: <b>hello@spixer.ai</b>
         </Typography>
 
       </Container>
